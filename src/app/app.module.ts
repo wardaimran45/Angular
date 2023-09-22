@@ -32,7 +32,8 @@ import { AngularFireStorageModule } from '@angular/fire/compat/storage';
     AngularFireAuthModule,
     AngularFirestoreModule,
     VideoModule,
-    AppRoutingModule
+    AppRoutingModule,
+    AngularFireStorageModule
   ],
   providers: [],
   bootstrap: [AppComponent]
